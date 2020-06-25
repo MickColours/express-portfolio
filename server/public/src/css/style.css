@@ -1,0 +1,47 @@
+* {
+	margin: 0;
+}
+body {
+  background-color: #79CDCD;
+}
+
+.maincontent {
+  text-align: center;
+  color: #104E8B;
+  font-family: 'Poiret One';
+  font-size: 25px;
+  margin-top: 10px;
+}
+
+#header {
+  text-align: center;
+  font-size: 40px;
+  border-bottom: 1px solid #808080;
+  padding-bottom: 0px;
+}
+
+#cap1 {
+	text-align: center;
+  color: #63D1F4;
+  font-family: 'Poiret One';
+  font-size: 25px;
+}
+
+#cap2 {
+	text-align: center;
+  color: #B58E75;
+  font-family: 'Poiret One';
+  font-size: 25px;
+}
+
+#cap3 {
+	text-align: center;
+  color: #4A4A4B;
+  font-family: 'Poiret One';
+  font-size: 25px;
+}
+
+#portrait {
+	height: 50%;
+	width: auto;
+}

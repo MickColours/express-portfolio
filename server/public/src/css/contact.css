@@ -1,0 +1,14 @@
+.container {
+	font-family: 'Poiret One';
+	font-size: 32px;
+	width: 30%;
+	margin: 5% auto 15%;
+	background-color: #CFDCE8;
+	padding-top: 10px;
+	border: solid .03px rgba(16, 78, 139, .5);
+	text-align: center;
+}
+
+.contactcolor {
+	background: #CFDCE8;
+}

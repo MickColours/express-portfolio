@@ -1,0 +1,17 @@
+.icons {
+	height: 27px;
+	width: 27px;
+}
+
+.icons:hover {
+	fill: rgba(74, 74, 75, .8);
+}
+
+.contacticons {
+	height: 100px;
+	width:100px;
+}
+
+.contacticons:hover {
+	fill: #3085DB;
+}

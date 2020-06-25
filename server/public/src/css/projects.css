@@ -1,0 +1,19 @@
+.examplep {
+	font-family: 'Raleway';
+	text-align: center;
+	font-size: 30px;
+}
+
+.excessimg {
+	overflow: hidden;
+}
+
+.project {
+	text-align: center;
+	padding-bottom: 20px;
+}
+
+#iframepdf {
+	height:200%;
+	width: auto;
+}
